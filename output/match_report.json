@@ -1,0 +1,20 @@
+{
+  "runtime_seconds": 97.1,
+  "n_retailer_rows": 280960,
+  "n_voysen_brands_input": 12153,
+  "n_voysen_brands_output": 197631,
+  "n_new_brands_created": 185478,
+  "matches": {
+    "exact": 1564,
+    "fuzzy_high_confidence": 8643,
+    "fuzzy_review_band": 31264,
+    "new_brand": 228439,
+    "unlabeled": 11050
+  },
+  "likely_non_brand_rows_flagged": 5152,
+  "thresholds": {
+    "sim_match_threshold": 0.83,
+    "sim_review_threshold": 0.7,
+    "sim_new_brand_cluster_threshold": 0.9
+  }
+}

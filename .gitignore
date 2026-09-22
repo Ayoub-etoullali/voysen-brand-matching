@@ -1,0 +1,6 @@
+.venv
+
+output/brand_associations.csv
+data/retailer_brands.csv
+
+**/src/__pycache__
